@@ -8,3 +8,5 @@ Several technologies to keep in mind :
 - vfs 
 - caps
 - userns
+- hypervisor
+- unikernel
