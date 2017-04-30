@@ -10,3 +10,7 @@ Several technologies to keep in mind :
 - userns
 - hypervisor
 - unikernel
+
+We could look on how docker & opencontainer runc/runv abstraction layer being created. 
+
+- [Docker Code Design](https://delftswa.github.io/chapters/docker/)
